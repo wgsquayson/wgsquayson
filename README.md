@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **react native**
 
-- 📫 How to reach me **wgsquayson@gmail.com**
+- 📫 Reach me at **wgsquayson@gmail.com**
 
 - ⚡ Fun fact **I'm 6'4**
 
