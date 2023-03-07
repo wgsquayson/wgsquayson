@@ -9,7 +9,7 @@
 
 - 🔭 My current active personal project is [Credit Cards Control](https://github.com/wgsquayson/controle-de-cartoes)
 
-- 📄 All of my experience is available on [https://quayson.dev](https://quayson.dev)
+- 📄 All of my experience is available at [https://quayson.dev](https://quayson.dev)
 
 - 💬 Ask me about **react native**
 
