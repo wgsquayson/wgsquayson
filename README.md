@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wgsquayson" alt="wgsquayson" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/willnasx" target="blank"><img src="https://img.shields.io/twitter/follow/willnasx?logo=twitter&style=for-the-badge" alt="willnasx" /></a> </p>
-
 - 👨‍💻 I’m currently working as a React Native Developer at [z1.app](https://www.z1.app)
 
 - 📄 All of my experience is available at [https://quayson.dev](https://quayson.dev)
