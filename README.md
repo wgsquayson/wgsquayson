@@ -5,9 +5,7 @@
 
 - 👨‍💻 I’m currently working as a React Native Developer at [z1.app](https://www.z1.app)
 
-- 📄 All of my experience is available at [https://quayson.dev](https://quayson.dev)
-
-- 💬 Ask me about **react native**
+- 💬 Ask me about **react, react native**
 
 - 📫 Reach me at **wgsquayson@gmail.com**
 
