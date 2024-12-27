@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wgsquayson" alt="wgsquayson" /></a> </p>
 
-- 👨‍💻 I’m currently working as a React Native Developer at [z1.app](https://www.z1.app)
+- 👨‍💻 I’m currently looking for a job
 
 - 💬 Ask me about **react, react native**
 
