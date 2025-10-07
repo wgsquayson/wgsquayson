@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wgsquayson" alt="wgsquayson" /></a> </p>
 
-- 👨‍💻 I’m currently working at Margelo as a Frontend developer
+- 👨‍💻 I’m currently looking for a front-end developer position
 
 - 💬 Ask me about **react, react native**
 
